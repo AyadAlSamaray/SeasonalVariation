@@ -7,7 +7,7 @@ This repository contains the code used for analyzing **Seasonal Variation in Cos
 Our study focuses on detecting seasonal variations in cosmic ray rates using data collected from detector 1006 located in Utrecht, Netherlands. Understanding these variations helps in refining models of cosmic ray interactions with Earth's atmosphere and contributes to broader astrophysical research.
 
 You can view our final research poster here:  
-**[INSPIRE - Final Research.pdf](https://github.com/user-attachments/files/16937657/INSPIRE-.Final.research.pdf)**
+**[INSPIRE- Final research poster.pdf](https://github.com/AyadAlSamaray/SeasonalVariation/blob/main/Images/INSPIRE-%20Final%20research%20poster.pdf)**
 
 ## Running the Code
 
